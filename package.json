@@ -18,7 +18,7 @@
     "@expo/samples": "2.1.1",
     "@turf/circle": "^6.0.1",
     "@turf/distance": "^6.0.1",
-    "expo": "^32.0.0",
+    "expo": "^46.0.14",
     "frisbee": "^2.0.5",
     "indexr": "^1.1.10",
     "ramda": "^0.26.1",
